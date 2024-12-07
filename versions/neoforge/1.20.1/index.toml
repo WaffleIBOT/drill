@@ -1,112 +1,88 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/connector.json"
-hash = "d619022556cc9c7d666ede212e92c9a88c909266835da9c7f9107ed5b8e76c4f"
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "0380bc73ed202ccdbca102d7e2d8307539a7d321407e86d250b1fdcd6d72b13d"
+file = "configureddefaults/config/bettergrass.json5"
+hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
-file = "config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "e0d9ce47a87536c707b797789b53e9e4f09b273f69098b1303b0815ebd82b3c5"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "20bb880eb7a4657399b86fd11f6e2ec56c87c04ad037d62c155dcca5d484aa7f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
-
-[[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "693aa9568f7570903171bb97ef80af06488502a6f6ba977af30255cbcdf38e8b"
-
-[[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "e0175393f767dc9d1c61ee6b69db461ea1d6d26b76c6f07503d6724edd009c89"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
+file = "configureddefaults/config/capes.json5"
 hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
 
 [[files]]
-file = "config/yosbr/config/cem.conf"
+file = "configureddefaults/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
+file = "configureddefaults/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
+file = "configureddefaults/config/connector.json"
+hash = "d619022556cc9c7d666ede212e92c9a88c909266835da9c7f9107ed5b8e76c4f"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
-
-[[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
-
-[[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "624ed4c30777968887c07194cc265fc66aea996a20f55c32f0df861bc8ccc5c5"
-
-[[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "a2470fbc25f1a7df9833c57ca6588a356da86d9ab46881e5ce0e505239943fed"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "configureddefaults/config/embeddium-options.json"
 hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
+file = "configureddefaults/config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
+
+[[files]]
+file = "configureddefaults/config/fastquit.toml"
+hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
+
+[[files]]
+file = "configureddefaults/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
+
+[[files]]
+file = "configureddefaults/config/isxander-main-menu-credits.json"
+hash = "a54d8c17f76d31ae66f5bd62a5b8f5c98675cc765262fbcf058ead1cdd215569"
+
+[[files]]
+file = "configureddefaults/config/lambdynlights.toml"
+hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "2bb35f2111fbbd01c77057552b893bf55da52eeec47bd3da9d259b5f557ba8d7"
+
+[[files]]
+file = "configureddefaults/config/modmenu.json"
+hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "configureddefaults/config/oculus.properties"
+hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
+
+[[files]]
+file = "configureddefaults/config/puzzle.json"
+hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
+
+[[files]]
+file = "configureddefaults/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
-hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
+file = "configureddefaults/options.txt"
+hash = "551fe87d9b62f0f81bd68741b5fa7fa515722652e1ef87cf2e3d40b6bc574b35"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -270,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "41bf1336c90b4372f9b674814edd86ebb2ca3b0d795fb3ccfd3f9ec827503508"
+hash = "2d95401d8b141f309c0caba8a12e5ecc3f3c063b2bec5105f979ab5838f50dea"
 metafile = true
 
 [[files]]
