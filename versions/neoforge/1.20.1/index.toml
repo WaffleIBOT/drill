@@ -86,7 +86,7 @@ hash = "551fe87d9b62f0f81bd68741b5fa7fa515722652e1ef87cf2e3d40b6bc574b35"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "31689f28d9a1866d3892e8b0776ee140fdcbb5502a1fa135467783d6408e7b9f"
+hash = "04dfa7dedb05ce86e9856a104b30ddd7db23e54d7108bf92a5c2f38bc9ea8af8"
 metafile = true
 
 [[files]]
